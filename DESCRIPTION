@@ -1,7 +1,7 @@
 Package: RnaSeqSampleSizeData
 Type: Package
 Title: RnaSeqSampleSizeData
-Version: 0.99.4
+Version: 0.99.5
 Date: 2014-12-03
 Author: Shilin Zhao, Chung-I Li, Yan Guo, Quanhu Sheng, Yu Shyr
 Maintainer: Shilin Zhao <zhaoshilin@gmail.com>
@@ -15,4 +15,4 @@ LazyData: false
 Depends: edgeR,R (>= 2.10)
 VignetteBuilder: knitr
 Suggests: BiocStyle, knitr
-biocViews: ExperimentData, Cancer, RNAseqData
+biocViews: ExperimentData, CancerData, RNASeqData
